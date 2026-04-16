@@ -10,3 +10,4 @@ Type: Text
 Format: Markdown, PDF
 Rights: CC-BY-4.0
 profvicdeloliveira@gmail.com
+https://doi.org/10.5281/zenodo.19603643
