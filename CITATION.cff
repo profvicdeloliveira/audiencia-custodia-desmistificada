@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+type: article
+authors:
+- family-names: Silva e Oliveira
+  given-names: Vicente de Paulo
+  orcid: https://orcid.org/0009-0006-4436-0915
+  affiliation: Delegado de Polícia Civil
+title: "Audiência de Custódia desmistificada: influxos e contrafluxos na Investigação Policial à luz dos Direitos Humanos"
+repository-code: https://github.com/vicentedeoliveira/audiencia-custodia-desmistificada
+url: https://www.sindepol.com.br/artigos/audiencia-de-custodia-desmistificada-influxos-e-contrafluxos-na-investigacao-policial-a-luz-dos-direitos-humanos/
+license: CC-BY-4.0
+abstract: |
+  Este artigo analisa a audiência de custódia no contexto da investigação policial brasileira, destacando os influxos e contrafluxos entre as práticas investigativas e os direitos humanos. Discute-se a implementação do juízo de garantias e seu impacto na segurança pública, propondo reflexões sobre a harmonização entre eficiência policial e proteção dos direitos fundamentais. A análise baseia-se em legislação, jurisprudência e estudos de caso, visando contribuir para uma polícia mais democrática e respeitosa aos direitos humanos.
+  
+  This article analyzes the custody hearing in the context of Brazilian police investigation, highlighting the inflows and counterflows between investigative practices and human rights. It discusses the implementation of the guarantee judgment and its impact on public security, proposing reflections on the harmonization between police efficiency and protection of fundamental rights. The analysis is based on legislation, jurisprudence, and case studies, aiming to contribute to a more democratic and rights-respecting police force.
+keywords:
+- Investigação e operações policiais
+- Segurança Pública
+- Audiência de Custódia
+- Juízo de Garantias
+- Direitos Humanos
+- Police investigation and operations
+- Public Security
+- Custody Hearing
+- Guarantee Judgment
+- Human Rights
+version: 1.0.0
+date-released: 2025-10-02
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Silva e Oliveira
+    given-names: Vicente de Paulo
+    orcid: https://orcid.org/0009-0006-4436-0915
+    affiliation: Delegado de Polícia Civil
+  title: "Audiência de Custódia desmistificada: influxos e contrafluxos na Investigação Policial à luz dos Direitos Humanos"
+  journal: Sindepol
+  url: https://www.sindepol.com.br/artigos/audiencia-de-custodia-desmistificada-influxos-e-contrafluxos-na-investigacao-policial-a-luz-dos-direitos-humanos/
+  doi: "DOI placeholder para Zenodo (será preenchido após depósito)"
