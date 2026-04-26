@@ -1,64 +1,87 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "FAIR Minimal Schema for Scholarly Articles",
-  "description": "Minimalistic and professional JSON Schema for FAIR principles in an academic repository. Defines structure for article metadata including title, author, date, DOI, JSON-LD path, version, type, and sections for metadata, docs, and src.",
+  "title": "Audiência de Custódia desmistificada",
+  "description": "Schema FAIR para o artigo 'Audiência de Custódia desmistificada: influxos e contrafluxos na Investigação Policial à luz dos Direitos Humanos', incluindo metadados acadêmicos essenciais.",
   "type": "object",
-  "required": ["title", "author", "date", "doi", "@type", "version"],
+
+  "required": [
+    "title",
+    "author",
+    "doi",
+    "datePublished",
+    "@type",
+    "version",
+    "jsonld_path"
+  ],
+
   "properties": {
     "title": {
       "type": "string",
-      "description": "Título do artigo"
+      "const": "Audiência de Custódia desmistificada: influxos e contrafluxos na Investigação Policial à luz dos Direitos Humanos"
     },
+
     "author": {
-      "type": "array",
-      "minItems": 1,
-      "items": {
-        "type": "string",
-        "description": "Autor"
-      }
-    },
-    "date": {
       "type": "string",
-      "format": "date-time",
-      "description": "Data"
+      "const": "Vicente de Paulo Silva e Oliveira"
     },
+
+    "orcid": {
+      "type": "string",
+      "const": "0009-0006-4436-0915"
+    },
+
     "doi": {
       "type": "string",
-      "pattern": "^10\.",
-      "description": "DOI"
+      "const": "10.5281/zenodo.19603643"
     },
+
+    "datePublished": {
+      "type": "string",
+      "const": "2025-10"
+    },
+
     "@type": {
-      "const": "ScholarlyArticle",
-      "description": "Tipo"
+      "type": "string",
+      "const": "ScholarlyArticle"
     },
+
     "version": {
       "type": "string",
-      "description": "Versão"
+      "const": "1.0"
     },
+
     "jsonld_path": {
       "type": "string",
-      "description": "Caminho do JSON-LD"
+      "const": "metadata/article.jsonld"
     },
-    "metadata": {
-      "type": "object",
-      "description": "Campos esperados dentro de metadata (additional FAIR metadata)",
-      "additionalProperties": {
-        "type": ["string", "number", "array", "object"]
-      }
-    },
-    "docs": {
+
+    "keywords": {
       "type": "array",
-      "description": "Campos esperados dentro de docs (array of documentation paths)",
-      "items": {
-        "type": "string"
-      }
+      "items": { "type": "string" },
+      "default": [
+        "audiência de custódia",
+        "investigação policial",
+        "direitos humanos",
+        "juízo das garantias",
+        "controle constitucional",
+        "processo penal",
+        "delegado de polícia"
+      ]
     },
-    "src": {
-      "type": "object",
-      "description": "Campos esperados dentro de src (source files or data paths)",
-      "additionalProperties": {
-        "type": "string"
-      }
+
+    "docs_path": {
+      "type": "string",
+      "const": "docs/"
+    },
+
+    "metadata_path": {
+      "type": "string",
+      "const": "metadata/"
+    },
+
+    "src_path": {
+      "type": "string",
+      "const": "src/texto.md"
     }
   }
 }
