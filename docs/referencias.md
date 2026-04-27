@@ -1,4 +1,4 @@
-# Referências Bibliográficas  
+# Referências Bibliográficas  observação técnica do autor: ainda em curadoria para perfeita auditabilidade
 *Audiência de Custódia — Influxos e Contrafluxos na Investigação Policial*
 
 ---
