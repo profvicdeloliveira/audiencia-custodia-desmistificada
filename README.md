@@ -96,7 +96,7 @@ O trabalho adota abordagem teleológica, integrativa e pós‑positivista, compa
 ## 7. Como Citar
 Use a seguinte recomendação de citação:
 
-> **OLIVEIRA, Vicente de Paulo Silva e.** *Audiência de Custódia: influxos e contrafluxos na investigação policial*. Repositório FAIR, 2025. Disponível em: [URL do repositório].
+> **OLIVEIRA, Vicente de Paulo Silva e.** *Audiência de Custódia: influxos e contrafluxos na investigação policial*. Repositório FAIR, 2025. Disponível em: https://doi.org/10.5281/zenodo.19603643. 
 
 ---
 
