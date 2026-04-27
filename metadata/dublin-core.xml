@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dublin-core xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <dc:title>
+        Audiência de Custódia desmistificada: influxos e contrafluxos na Investigação Policial à luz dos Direitos Humanos
+    </dc:title>
+
+    <dc:creator>Vicente de Paulo Silva e Oliveira</dc:creator>
+    <dc:creator.orcid>0009-0006-4436-0915</dc:creator.orcid>
+
+    <dc:subject>audiência de custódia</dc:subject>
+    <dc:subject>investigação policial</dc:subject>
+    <dc:subject>direitos humanos</dc:subject>
+    <dc:subject>controle de convencionalidade</dc:subject>
+    <dc:subject>juízo das garantias</dc:subject>
+    <dc:subject>constitucionalismo contemporâneo</dc:subject>
+
+    <dc:description>
+        Análise histórico-filosófica, jurídica e procedimental da audiência de custódia como mecanismo
+        de mediação entre proteção de direitos fundamentais e eficiência investigativa. O estudo examina
+        influxos normativos, contrafluxos práticos, fundamentos constitucionais, e a posição institucional
+        do Delegado de Polícia como anteparo contra excessos estatais, articulando controle de constitucionalidade
+        e convencionalidade na fase pré-processual.
+    </dc:description>
+
+    <dc:publisher>Autor independente / Zenodo</dc:publisher>
+
+    <dc:date>2025-10</dc:date>
+
+    <dc:type>ScholarlyArticle</dc:type>
+    <dc:format>application/pdf</dc:format>
+
+    <dc:identifier>https://doi.org/10.5281/zenodo.19603643</dc:identifier>
+    <dc:source>https://github.com/profvicdeloliveira</dc:source>
+
+    <dc:language>pt-BR</dc:language>
+
+    <dc:rights>CC BY-NC 4.0</dc:rights>
+
+</dublin-core>
