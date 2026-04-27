@@ -65,9 +65,9 @@ CAMPOS, Breno Eduardo. *Breve Histórico da Investigação Criminal*. Disponíve
 
 Declaração Universal dos Direitos Humanos (1948). Disponível em: https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos.
 
-J. A. RUPRECHT, Aurélio et al. *Caracterização do Fenômeno da Compartimentação da Informação em Investigações Policiais*. Revista Brasileira de Ciências Policiais, v. 14, n. 13, 2023. Disponível em: https://periodicos.pf.gov.br/index.php/RBCP/article/view/895/796.
+J. A. RUPRECHT, Aurélio et al. *Caracterização do Fenômeno da Compartimentação da Informação em Investigações Policiais*. Revista Brasileira de Ciências Policiais. Brasília, v. 14, n. 13, p. 85-123, set.-dez./2023. Disponível em: https://periodicos.pf.gov.br/index.php/RBCP/article/view/895/796.
 
-MAGNA CARTA (1215). Trad. João Gouveia Monteiro (2015). Disponível em: https://www.studocu.com/.
+MAGNA CARTA (1215). Trad. João Gouveia Monteiro (2015). Disponível em: https://www.studocu.com/pt/document/universidade-de-coimbra/latim-i-iniciacao/magna-carta/27164995.
 
 NUCCI, Guilherme de Souza. *Curso de Direito Processual Penal*. 22. ed. Rio de Janeiro: Forense, 2025.
 
