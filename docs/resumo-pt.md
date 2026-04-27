@@ -1,0 +1,6 @@
+# Resumo (PT)
+
+O presente trabalho analisa a audiência de custódia sob a ótica da investigação policial e dos direitos humanos, buscando compreender seus impactos — positivos e negativos — na atuação da Polícia Civil. 
+Parte-se de uma contextualização histórica e normativa do instituto, com ênfase na sua implementação no Brasil. O objetivo é desmistificar a audiência de custódia como simples ato de formalização da prisão ou mero instrumento de controle das  políciais, reconhecendo nela um espaço democrático de aprimoramento investigativo. 
+Metodologicamente, a pesquisa apoia-se em análise documental e estatística, entrevistas com atores do sistema penal e estudo da legislação, doutrina e jurisprudência correlata. Como resultado, identifica-se que a audiência de custódia exerce papel estratégico na mediação entre a proteção de direitos fundamentais e a efetividade da persecução penal, apontando boas práticas institucionais e sugerindo aprimoramentos normativos e procedimentais. A conclusão destaca a importância do diálogo interinstitucional e da atuação proativa da autoridade policial na preservação da legalidade e na construção de uma investigação mais célere, transparente e eficaz.
+Palavras-chave: Investigação e operações policiais, Segurança Pública, Audiência de Custódia, Juízo de Garantias, Direitos Humanos.
