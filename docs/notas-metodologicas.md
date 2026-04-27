@@ -68,7 +68,7 @@ A produção textual segue:
 
 - controle estrito de citações e referências;  
 - compromisso com a **não especulação**;  
-- fidelidade às normas vigentes e precedentes reais;  
+- fidelidade às normas vigentes e precedentes;  
 - alinhamento ao paradigma constitucional de proteção da pessoa humana.
 
 ---
