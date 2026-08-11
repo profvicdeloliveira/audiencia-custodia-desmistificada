@@ -54,10 +54,17 @@ README.md
 - Linguagem de marcação padrão (Markdown + JSON‑LD + XML).  
 - Organização modular que facilita integração com outros artigos e datasets.
 
-### **Reusable**  
-- Estrutura replicável para futuros artigos.  
-- Conteúdo licenciado sob **CC BY 4.0**.  
-- Separação entre texto integral, metadados, métodos e glossário.
+### **📄 Licença**
+
+**Copyright © 2026 Vicente de Paulo Silva e Oliveira — All Rights Reserved.**
+
+Este repositório e todos os seus conteúdos (artigo, documentação,
+metadados e materiais auxiliares) estão protegidos pela Lei nº 9.610/98
+e pela Convenção de Berna.
+
+Nenhuma parte pode ser reproduzida sem autorização prévia e por escrito do autor.
+
+Para solicitações de uso acadêmico: profvicdeloliveira@gmail.com
 
 ---
 
