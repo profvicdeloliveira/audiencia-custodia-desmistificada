@@ -109,9 +109,18 @@ Use a seguinte recomendação de citação:
 
 ## 8. Contribuições
 Este repositório segue diretrizes científicas.  
-Consulte `CONTRIBUTING.md` antes de propor alterações.
+Consulte ´LICENSE.md` antes de propor alterações.
 
 ---
 
-## 9. Licença
-O conteúdo está sob **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+## 9. 📄 Licença
+
+**Copyright © 2026 Vicente de Paulo Silva e Oliveira — All Rights Reserved.**
+
+Este repositório e todos os seus conteúdos (artigo, documentação,
+metadados e materiais auxiliares) estão protegidos pela Lei nº 9.610/98
+e pela Convenção de Berna.
+
+Nenhuma parte pode ser reproduzida sem autorização prévia e por escrito do autor.
+
+Para solicitações de uso acadêmico: [inserir e-mail]
