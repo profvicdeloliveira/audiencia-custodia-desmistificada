@@ -123,4 +123,4 @@ e pela Convenção de Berna.
 
 Nenhuma parte pode ser reproduzida sem autorização prévia e por escrito do autor.
 
-Para solicitações de uso acadêmico: profvicdeloloiveira@gmail.com
+Para solicitações de uso acadêmico: profvicdeloliveira@gmail.com
